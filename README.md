@@ -8,7 +8,7 @@ MediMatch is a comprehensive AI-powered drug discovery and analysis platform tha
 knowledge graph exploration, target prediction, prescription OCR, and an intelligent AI copilot to assist researchers
 and healthcare professionals.
 
-![MediMatch Banner](https://via.placeholder.com/1200x400/009688/ffffff?text=MediMatch+AI+Drug+Discovery+Platform)
+![MediMatch Banner](https://medimatch-706651900775.us-central1.run.app/)
 
 ---
 
