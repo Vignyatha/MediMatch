@@ -9,7 +9,7 @@ knowledge graph exploration, target prediction, prescription OCR, and an intelli
 and healthcare professionals.
 
 ## Try our software here
-- https://medimatch-706651900775.us-central1.run.app/
+- Click here: https://medimatch-706651900775.us-central1.run.app/
 
 ---
 
